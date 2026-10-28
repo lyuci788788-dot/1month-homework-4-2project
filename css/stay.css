@@ -1,0 +1,31 @@
+body{
+  background-color: #bec3c7;
+  display: flex;
+  justify-content: center;
+}
+#registor{
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+#button{
+  background-color: #2a80b9;
+  text-align: right;
+}
+#upcolor{
+  background-color: #2a80b9;
+
+}
+/* #input{
+  width: ;
+} */
+ p{
+  width: 300px;
+ }
+ #chek{
+  width: 250px;
+  text-align: left;
+ }
